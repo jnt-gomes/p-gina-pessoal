@@ -1,0 +1,43 @@
+body {
+    background-image: url(/Alura/black_have.jpg); 
+    background-size: auto 100vh;
+    height: 100vh;
+}
+main {
+    background-color: thistle;
+    width: 85%; height: 100%;
+    margin: auto;
+    position: relative;
+}
+.menu {
+    background-color: whitesmoke;
+    text-align: center;
+    height: 50px;
+    margin-bottom: 10px;
+}
+.menu li {
+    list-style-type: none;
+}
+.menu ul {
+    padding-top: 12px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: #cc0052;
+    font-style: inherit;
+}
+.site-title {
+    color: navajowhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.site-title {
+    color: orange;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
